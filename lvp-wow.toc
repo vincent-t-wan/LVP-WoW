@@ -1,6 +1,7 @@
 ## Interface: 110000
 ## Version: 1.0.0
 ## Title: LVP
+## SavedVariables: data
 ## Notes: Calculates the least valuable player for M+ dungeon runs.
 ## Author: Betaguini
 
